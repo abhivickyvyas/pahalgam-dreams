@@ -1,0 +1,10 @@
+# Local knowledge / Claude context
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
