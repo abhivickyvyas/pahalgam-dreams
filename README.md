@@ -2,7 +2,7 @@
 
 **Location:** Village Lidroo, Near Army School, Pahalgam – 192126, Jammu & Kashmir, India  
 **Coordinates:** 33.9707296, 75.3191647  
-**Capacity:** 28 Rooms  
+**Capacity:** 29 Rooms  
 
 ---
 
